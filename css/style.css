@@ -51,6 +51,9 @@ img:hover {
   width: 100%;
 }
 
+.small {
+  float: right;
+}
 .med {
   height: 100%;
   width: 100%;
