@@ -49,8 +49,9 @@ img:hover {
 .column  {
   height: 100px;
   width: 50px;
-  display: inline;
+  display: inline-block;
 }
+
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
