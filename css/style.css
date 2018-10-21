@@ -53,8 +53,8 @@ img:hover {
 }
 
 .med {
-  height: 75%;
-  width: 75%;
+  height: 150%;
+  width: 150%;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
