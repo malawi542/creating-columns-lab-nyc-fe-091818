@@ -53,6 +53,7 @@ img:hover {
 
 .small {
   float: right;
+  display: block;
 }
 .med {
   height: 100%;
